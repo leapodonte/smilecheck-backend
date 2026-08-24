@@ -9,7 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.41"
+    "@ant-design/icons-vue": "^7.0.1",
+    "ant-design-vue": "^4.2.6",
+    "axios": "^1.19.0",
+    "pinia": "^4.0.3",
+    "vue": "^3.5.41",
+    "vue-i18n": "^11.4.9",
+    "vue-router": "^5.2.0"
   },
   "devDependencies": {
     "@types/node": "^24.13.3",
