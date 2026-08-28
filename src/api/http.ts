@@ -11,7 +11,7 @@ export const SESSION_KEY = 'admin_session'
 /**
  * API 服务地址（直连，跨域响应头由 API 的 HttpHeaders 中间件处理）
  */
-export const API_ORIGIN = 'http://localhost:5000'
+export const API_ORIGIN = 'http://121.43.108.104:9998'
 
 /**
  * 后台管理接口地址前缀
